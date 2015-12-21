@@ -1,0 +1,28 @@
+name: newthought
+favicon: null
+layout_spectrum: 0.47972582490183413
+typography_spectrum: 0.9707991094328463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46489405166357756
+  lightness: 0.19699178566224873
+  saturation: 0.7455614416394383
+  rhythmicContrast: 0.6671772750560194
+purpose: []
