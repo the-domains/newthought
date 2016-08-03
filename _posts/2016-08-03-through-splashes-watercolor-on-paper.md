@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Through splashes: Watercolor on paper'
-datePublished: '2016-08-03T16:08:35.622Z'
-dateModified: '2016-08-03T16:08:01.826Z'
+datePublished: '2016-08-03T16:11:35.801Z'
+dateModified: '2016-08-03T16:08:45.085Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-03-through-splashes-watercolor-on-paper.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-03-through-splashes-watercolor-on-paper.md
 url: through-splashes-watercolor-on-paper/index.html
 _type: Article
 
