@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[newthought]]></title>
         <description><![CDATA[newthought]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/newthought/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 10:01:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 16:08:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newthought/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e05ffdd-41ae-4e3c-8a7f-50de6781fda4.png">]]></description>
+            <link>https://thegrid.ai/newthought/through-splashes-watercolor-on-paper/index.html</link>
+            <guid isPermaLink="false">f679920b-bb66-44df-be46-0220c3fcea93</guid>
+            <pubDate>Wed, 03 Aug 2016 16:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>what must make silence.</p>]]></description>
-            <link>undefined7e1b885b-eb28-46d5-ab0a-7f9d6e9302f7/index.html</link>
+            <link>https://thegrid.ai/newthought/7e1b885b-eb28-46d5-ab0a-7f9d6e9302f7/index.html</link>
             <guid isPermaLink="false">7e1b885b-eb28-46d5-ab0a-7f9d6e9302f7</guid>
             <pubDate>Mon, 21 Dec 2015 10:01:04 GMT</pubDate>
         </item>
